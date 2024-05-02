@@ -28,7 +28,7 @@
 
 - If you don't have Webull account, feel free to use my [referral link](https://www.webull.com/ko-yield/1686282581612-6819bd?__app_cfg__=%7B%22supportTheme%22%3Atrue%7D&inviteCode=vxXUIqoQXd1E&source=hdx) to sign up, you can get 12 free stocks after depositing $0.01 or more.
 
-- Give repository a star if it helps~
+- Give repository a star - it helps!
 
 <br>
 
@@ -62,7 +62,7 @@ or,
 pip3 install -r requirements.txt
 ```
 
-<a href="https://github.com/LukeWang01/Program-Trading-Based-on-Webull/blob/main/docs/fix_install_error.md" target="_blank">If got errors when installing (click here)</a>
+<a href="/docs/fix_install_error.md" target="_blank">If got errors when installing (click here)</a>
 
 <br>
 
@@ -82,7 +82,7 @@ Double-click the `app_launcher.bat` to run. (Windows only)
 
 <br>
 
-<img src="docs/docs_img/log_in_1.png" width="800" alt="log in">
+<img src="/docs/docs_img/log_in_1.png" width="800" alt="log in">
 
 <br>
 
@@ -90,7 +90,7 @@ Double-click the `app_launcher.bat` to run. (Windows only)
 
 ### 2.2 First-time launch setup (Setup only once for the Authentication)
 
-<a href="https://github.com/LukeWang01/Program-Trading-Based-on-Webull/blob/main/docs/first_run_setup.md" target="_blank">Instructions for the first run setup (click here) </a>
+<a href="/docs/first_run_setup.md" target="_blank">Instructions for the first run setup (click here) </a>
 
 <br>
 
@@ -98,7 +98,7 @@ Double-click the `app_launcher.bat` to run. (Windows only)
 
 You can create your strategy following the example strategy:
 
-`Program-Trading-Based-on-Webull/strategy/My_Strategy.py` (<a href="https://github.com/LukeWang01/Program-Trading-Based-on-Webull/blob/main/strategy/My_Strategy.py" target="_blank">Click here to open</a>)
+`Program-Trading-Based-on-Webull/strategy/My_Strategy.py` (<a href="/strategy/My_Strategy.py" target="_blank">Click here to open</a>)
 
 <br>
 
